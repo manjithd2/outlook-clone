@@ -1,0 +1,19 @@
+.nav-btn {
+    width: 100%;
+    border: none;
+    background: white;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.nav-btn:hover {
+    background-color: #3e73ea;
+    transition: 0.25ms;
+    color: white;
+}
+
+.nav-area {
+    background-color: white;
+    padding-top: 50px;
+    height: 100vh;
+}
